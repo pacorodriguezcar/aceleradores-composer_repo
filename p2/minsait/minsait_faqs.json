@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "minsait/minsait_faqs": [
+            {
+                "name": "minsait/minsait_faqs",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/pacorodriguezcar/aceleradores-minsait_faqs.git",
+                    "reference": "16e479a92f644c00851908e468a6bebd8a4eab02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pacorodriguezcar/aceleradores-minsait_faqs/zipball/16e479a92f644c00851908e468a6bebd8a4eab02",
+                    "reference": "16e479a92f644c00851908e468a6bebd8a4eab02",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupal/better_exposed_filters": "^7.0",
+                    "drupal/faqfield": "^8.0"
+                },
+                "time": "2026-02-25T08:26:24+00:00",
+                "type": "drupal-recipe",
+                "description": "Receta que instala el TC faqs y el módulo faqfield",
+                "support": {
+                    "source": "https://github.com/pacorodriguezcar/aceleradores-minsait_faqs/tree/1.0.0",
+                    "issues": "https://github.com/pacorodriguezcar/aceleradores-minsait_faqs/issues"
+                }
+            }
+        ]
+    }
+}

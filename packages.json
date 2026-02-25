@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$9dc95dd654e59bbacda00bbc16b00f2690ae6da7.json": {
-            "sha1": "9dc95dd654e59bbacda00bbc16b00f2690ae6da7"
+        "include/all$baf4cc2a104318e405449561569ef6e12d997cbf.json": {
+            "sha1": "baf4cc2a104318e405449561569ef6e12d997cbf"
         }
     },
     "metadata-url": "/aceleradores-composer_repo/p2/%package%.json",
     "available-packages": [
+        "minsait/minsait_faqs",
         "minsait/minsait_map_spain"
     ]
 }
