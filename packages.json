@@ -5,7 +5,7 @@
             "sha1": "9dc95dd654e59bbacda00bbc16b00f2690ae6da7"
         }
     },
-    "metadata-url": "/aceleradores-composer-repo/p2/%package%.json",
+    "metadata-url": "/aceleradores-composer_repo/p2/%package%.json",
     "available-packages": [
         "minsait/minsait_map_spain"
     ]
