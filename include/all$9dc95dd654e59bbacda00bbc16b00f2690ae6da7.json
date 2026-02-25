@@ -1,0 +1,94 @@
+{
+    "packages": {
+        "minsait/minsait_map_spain": {
+            "1.0.0": {
+                "name": "minsait/minsait_map_spain",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain.git",
+                    "reference": "ccb8e8dfe705aafe7a46eaf07ce1528d8d831f57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pacorodriguezcar/aceleradores-minsait_map_spain/zipball/ccb8e8dfe705aafe7a46eaf07ce1528d8d831f57",
+                    "reference": "ccb8e8dfe705aafe7a46eaf07ce1528d8d831f57",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupal/core": "^10 || ^11"
+                },
+                "time": "2026-02-23T19:30:06+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Módulo para construir un mapa de españa con svg",
+                "support": {
+                    "source": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain/tree/1.0.0",
+                    "issues": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "minsait/minsait_map_spain",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain.git",
+                    "reference": "31047955d036d9d76a6bf6424caaa716c68d9693"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pacorodriguezcar/aceleradores-minsait_map_spain/zipball/31047955d036d9d76a6bf6424caaa716c68d9693",
+                    "reference": "31047955d036d9d76a6bf6424caaa716c68d9693",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupal/core": "^10 || ^11"
+                },
+                "time": "2026-02-23T20:12:44+00:00",
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Módulo para construir un mapa de españa con svg",
+                "support": {
+                    "source": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain/tree/1.0.1",
+                    "issues": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain/issues"
+                }
+            },
+            "dev-main": {
+                "name": "minsait/minsait_map_spain",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain.git",
+                    "reference": "31047955d036d9d76a6bf6424caaa716c68d9693"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/pacorodriguezcar/aceleradores-minsait_map_spain/zipball/31047955d036d9d76a6bf6424caaa716c68d9693",
+                    "reference": "31047955d036d9d76a6bf6424caaa716c68d9693",
+                    "shasum": ""
+                },
+                "require": {
+                    "drupal/core": "^10 || ^11"
+                },
+                "time": "2026-02-23T20:12:44+00:00",
+                "default-branch": true,
+                "type": "drupal-module",
+                "license": [
+                    "GPL-2.0-or-later"
+                ],
+                "description": "Módulo para construir un mapa de españa con svg",
+                "support": {
+                    "source": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain/tree/1.0.1",
+                    "issues": "https://github.com/pacorodriguezcar/aceleradores-minsait_map_spain/issues"
+                }
+            }
+        }
+    }
+}
